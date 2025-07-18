@@ -201,6 +201,28 @@ The application includes a mock API service for development, so you can test all
 4. Whitelist your IP address or set to allow access from anywhere
 5. Get your connection string and add it to your environment variables
 
+## 📸 Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](screenshots/dashboard-overview.png)
+*Complete dashboard with statistics cards, interactive charts, and campaign management table*
+
+### Campaign Creation Form
+![Campaign Form](screenshots/campaign-form.png)
+*User-friendly form for creating and editing campaigns with comprehensive validation*
+
+### Interactive Data Visualization
+![Charts Section](screenshots/charts-section.png)
+*Real-time charts showing impressions over time, CTR comparison, and budget distribution*
+
+### Advanced Filtering & Search
+![Filtering Features](screenshots/filtering-features.png)
+*Powerful filtering options by channel, date range, and real-time search functionality*
+
+### Campaign Management Table
+![Campaign Table](screenshots/campaign-table.png)
+*Comprehensive table with calculated metrics (CTR, CPC, ROI) and management actions*
+
 ## Features Implemented
 
 ### ✅ Frontend Features
@@ -243,3 +265,4 @@ The application includes a mock API service for development, so you can test all
 - **Backend**: Node.js, Express.js, MongoDB, Mongoose
 - **Development**: Nodemon, Concurrently, Create React App
 - **Styling**: TailwindCSS with custom components and animations
+ 
